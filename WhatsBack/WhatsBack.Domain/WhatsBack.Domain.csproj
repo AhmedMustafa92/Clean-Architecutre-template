@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+  <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WhatsBack.SharedKernal\WhatsBack.SharedKernal\WhatsBack.SharedKernal.csproj" />
+  </ItemGroup>
+
+</Project>

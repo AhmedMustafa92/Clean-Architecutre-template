@@ -1,0 +1,185 @@
+﻿[
+  {
+    "Key": "Success",
+    "LocalizedValue": {
+      "1": "Process complete successfully.",
+      "2": "اكتملت العملية بنجاح"
+    }
+  },
+  {
+    "Key": "GeneralError",
+    "LocalizedValue": {
+      "0": "Something went wronge, try again shortly.",
+      "1": "حدث خطأ ، يرجى المحاولة مرة أخرى"
+    }
+  },
+  {
+    "Key": "InvalidRequest",
+    "LocalizedValue": {
+      "0": "Invalid Request.",
+      "1": "بيانات غير صحيحة"
+    }
+  },
+
+  {
+    "Key": "InvalidName",
+    "LocalizedValue": {
+      "0": "Invalid Name.",
+      "1": "الاسم غير صحيح"
+    }
+  },
+  {
+    "Key": "InvalidPassword",
+    "LocalizedValue": {
+      "0": "Invalid Password.",
+      "1": "كلمة مرور غير صحيحة"
+    }
+  },
+  {
+    "Key": "InvalidPasswordFormat",
+    "LocalizedValue": {
+      "0": "Invalid Password Format.",
+      "1": "كلمة مرور ضعيفة"
+    }
+  },
+  {
+    "Key": "MailAlreadyExist",
+    "LocalizedValue": {
+      "0": "Mail Already Exist",
+      "1": "بريد الكترونى مسجل من قبل"
+    }
+  },
+  {
+    "Key": "InvalidPhoneNumber",
+    "LocalizedValue": {
+      "0": "Invalid Phone Number",
+      "1": "رقم الهاتف غير صحيح"
+    }
+  },
+  {
+    "Key": "InvalidBirthDate",
+    "LocalizedValue": {
+      "0": "InvalidBirthDate",
+      "1": "تاريخ الميلاد غير صحيح"
+    }
+  },
+  {
+    "Key": "InvalidEmail",
+    "LocalizedValue": {
+      "0": "Invalid Email",
+      "1": "بريد الكترونى غير صحيح"
+    }
+  },
+  {
+    "Key": "CommitFailed",
+    "LocalizedValue": {
+      "0": "Failed  to save",
+      "1": "فشل في التسجيل"
+    }
+  },
+  {
+    "Key": "RegisterSuccess",
+    "LocalizedValue": {
+      "0": "Welcome , You Will Receive SMS With Verification Code To Veify Your New Accout ",
+      "1": "مرحبا . سوف تصلك رساله نصية تحتوى على الكود لخاص بيك لتفاغيل الاكونت"
+    }
+  },
+  {
+    "Key": "InvalidCredentials",
+    "LocalizedValue": {
+      "0": "Email or password may be incorrect",
+      "1": "البريد الاكترونى او كلمة المرور غير صحيحة"
+    }
+  },
+  {
+    "Key": "InvalidLocation",
+    "LocalizedValue": {
+      "0": "Invalid Latitude Or Longitude",
+      "1": "بيانات موقع غير صحيحة"
+    }
+  },
+  {
+    "Key": "NameAlreadyExist",
+    "LocalizedValue": {
+      "0": "Name Already Exist",
+      "1": "اسم مسجل من قبل"
+    }
+  },
+  {
+    "Key": "PhoneAlreadyExist",
+    "LocalizedValue": {
+      "0": "Phone Numbde Already Exist",
+      "1": "رقم الهاتف مسجل من قبل"
+    }
+  },
+  {
+    "Key": "NotDataFound",
+    "LocalizedValue": {
+      "0": "No Data Found",
+      "1": "لا توجد بيانات"
+    }
+  },
+  {
+    "Key": "InvalidUser",
+    "LocalizedValue": {
+      "0": "Invalid Information",
+      "1": "بيانات غير صحيحة"
+    }
+  },
+  {
+    "Key": "ForgetPasswordMailSent",
+    "LocalizedValue": {
+      "0": "Check Your Mail And Use Verification Code",
+      "1": "افحص بريدك الالكترونى واعد كتابة كود التحقق"
+    }
+  },
+  {
+    "Key": "ForgetPasswordSMSSent",
+    "LocalizedValue": {
+      "0": "Check Your SMS And Use Verification Code",
+      "1": "افحص رسائلك واعد كتابة كود التحقق"
+    }
+  },
+  {
+    "Key": "VerifyAccount",
+    "LocalizedValue": {
+      "0": "Please Verify Your Account",
+      "1": " من فضلك فعل حسابك اولا"
+    }
+  },
+  {
+    "Key": "ForgetPasswordMailSubject",
+    "LocalizedValue": {
+      "0": "Garage App Password Reset",
+      "1": "تطبيق جراج تغير كلمة المرور"
+    }
+  },
+  {
+    "Key": "ForgetPasswordMailBody",
+    "LocalizedValue": {
+      "0": "hi [0] ,You Currently Requested to reset your password . use this code [1] to reset password.",
+      "1": "مرحبا[0] لقد استقبلنا طلبك لتغير كلمة المرور  من فضلك استخدم هذا الكود [1  لتغير كلمة المرور]"
+    }
+  },
+  {
+    "Key": "ForgetPasswordDataNotFoundOrExpired",
+    "LocalizedValue": {
+      "0": "Forget Password Data Not Found Or Expired.",
+      "1": "كود غير صحيح"
+    }
+  },
+  {
+    "Key": "ResetPasswordSuccessMessage",
+    "LocalizedValue": {
+      "0": "Your Password has been updated Successfully.",
+      "1": "تم تغير كلمة المرور بنجاح"
+    }
+  },
+  {
+    "Key": "InvalidVerificationCode",
+    "LocalizedValue": {
+      "0": "Invalid Verification Code.",
+      "1": "كود غير صحيح"
+    }
+  }
+]
